@@ -1,4 +1,4 @@
---Create a table topMovies
+--Create a table topMovies test
 create table topMovies(
 	rank integer,
 	title varchar(200),
