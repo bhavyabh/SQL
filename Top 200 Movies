@@ -1,4 +1,3 @@
--- Create topMovies table
 create table topMovies(
 	rank integer,
 	title varchar(200),
