@@ -1,0 +1,12 @@
+-- Create topMovies table
+create table topMovies(
+	rank integer,
+	title varchar(200),
+	worldwideGross decimal(20,2),
+	domesticGross decimal(20,2),
+	domesticPct decimal(5,2),
+	overseesGross decimal(20,2),
+	overseesPct decimal(5,2),
+	year integer
+);
+
